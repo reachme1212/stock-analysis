@@ -1,4 +1,4 @@
-## Stockananlysis using VBA##
+## Stockananlysis using VBA 
 
 **Overview of Project:**
 
@@ -13,8 +13,7 @@ When refactoring I understood the code better, adding comment along helped me wi
 
 ![code](images/variable2loop2.PNG)
 
-![code](images/ifinloop.PNG)
-
+![code](images/Ifinloop.PNG)
 
 Refactoring helped me understand the loops and nested conditions better as well, The first "for" loop named “i” makes space for volume ,start and end price for 12 stocks and initialize their value as 0 , That way when we add values we know we started from 0 ,no room for miscalculations. The second "for" loop name “inputrow” loops through the row until end of the data, and add the required values for all 12 stocks.
 
