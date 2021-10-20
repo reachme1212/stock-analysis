@@ -2,7 +2,7 @@
 
 **Overview of Project:**
 
-We are trying to do stock performance analysis for some leading green energy companies for the year 2017 and 2018, We have written separate codes to run performance for each year, However the challenge is to refactor the code to increase flexibility and efficiency.
+I am analysing stock performance for some leading green energy companies for the year 2017 and 2018, We have written separate codes to run performance for each year, However the challenge is to refactor the code to increase flexibility and efficiency.
 
 **Results:**
 
